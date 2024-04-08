@@ -1,6 +1,6 @@
 name: http_cookie_store
 description: Process and store cookies in a cookie store, or directly use it as a http client.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/Dampfwalze/http_cookie_store
 
 environment:
